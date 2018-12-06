@@ -1,0 +1,1 @@
+getKeyUrl = 'https://passport.bilibili.com/api/oauth2/getKey'
